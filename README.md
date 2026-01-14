@@ -56,7 +56,10 @@ The dataset consists of:
 ## 🗂️ Folder Structure
 
 # retail-sales-weather-analysis
-│
+## 📁 Folder Structure
+
+```text
+retail-sales-weather-analysis
 ├── dataset/
 │   ├── retail_sales.csv
 │   ├── weather_data.csv
@@ -66,6 +69,7 @@ The dataset consists of:
 │   ├── data_cleaning.sql
 │   ├── exploratory_analysis.sql
 │   ├── weather_sales_join.sql
+│   ├── exploratory_analysis.sql
 │   └── README.md
 │
 ├── powerbi/
@@ -77,7 +81,8 @@ The dataset consists of:
 │   ├── sales_trends.png
 │   └── README.md
 │
-├── docs/                
+├── docs/
 │   └── project_report.md
 │
 └── README.md
+
