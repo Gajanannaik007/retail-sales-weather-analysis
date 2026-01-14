@@ -56,7 +56,6 @@ The dataset consists of:
 ## 🗂️ Folder Structure
 
 # retail-sales-weather-analysis
-## 📁 Folder Structure
 
 ```text
 retail-sales-weather-analysis
