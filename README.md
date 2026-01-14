@@ -56,10 +56,28 @@ The dataset consists of:
 ## 🗂️ Folder Structure
 
 # retail-sales-weather-analysis
-Retail sales and weather impact analysis using MySQL and Power BI to uncover trends, drivers, and actionable insights.
-etail-sales-weather-analysis
+│
 ├── dataset/
+│   ├── retail_sales.csv
+│   ├── weather_data.csv
+│   └── README.md
+│
 ├── sql_queries/
+│   ├── data_cleaning.sql
+│   ├── exploratory_analysis.sql
+│   ├── weather_sales_join.sql
+│   └── README.md
+│
 ├── powerbi/
+│   ├── retail_sales_weather.pbix
+│   └── README.md
+│
 ├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── sales_trends.png
+│   └── README.md
+│
+├── docs/                
+│   └── project_report.md
+│
 └── README.md
