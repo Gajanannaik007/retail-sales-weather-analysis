@@ -86,14 +86,16 @@ retail-sales-weather-analysis
 └── README.md
 
 ```
-## Data Analysis (SQL)
+```md
+## 📊 Data Analysis (SQL)
 
+```sql
 CREATE OR REPLACE VIEW retail.table_joined AS
 SELECT
     s.date,
     DAYNAME(s.date) AS day_of_week,
-    
-    CASE 
+
+    CASE
         WHEN WEEKDAY(s.date) IN (5, 6) THEN 'Weekend'
         ELSE 'Weekday'
     END AS is_weekend,
@@ -104,7 +106,7 @@ SELECT
     s.sales_usd,
 
     -- Prevent division by zero
-    CASE 
+    CASE
         WHEN s.customers > 0 THEN s.sales_usd / s.customers
         ELSE 0
     END AS sales_per_customer,
@@ -120,7 +122,8 @@ SELECT
     w.humidity_pct
 
 FROM retail.sales s
-LEFT JOIN retail.survey su
+LEFT JOIN retail.survey su USING (date)
+LEFT JOIN retail.weather w USING (date);
     USING (date)
 LEFT JOIN retail.weather w
     USING (date);
