@@ -140,6 +140,9 @@ using (date)
 - **Interactive Design:**  
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
 
+<p align="center">
+  <img src="Screenshot 2026-01-15 185003.png" width="100%" alt="Miami Retail Shop Dashboard Overview">
+</p>
 
 
 
