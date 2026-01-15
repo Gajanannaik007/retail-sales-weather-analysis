@@ -141,7 +141,8 @@ using (date)
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
 
 <p align="center">
-  <img src="Screenshot 2026-01-15 185003.png" width="100%" alt="Miami Retail Shop Dashboard Overview">
+  <img src="Screenshot 2026-01-15 185003.png" width="100%" alt="<img width="1129" height="638" alt="Screenshot 2026-01-15 185003" src="https://github.com/user-attachments/assets/adf07d12-882f-427b-96fb-5a6fcb346847" />
+">
 </p>
 
 
