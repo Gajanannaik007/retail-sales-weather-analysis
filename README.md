@@ -116,3 +116,28 @@ using (date)
 ```
 ## 📊 Power BI Dashboard Overview
 
+- **Main KPIs:**  
+  Total Sales ($5.7M) and Total Customers (333K) displayed using card visuals to highlight overall business performance.
+
+- **Sales & Temperature Trend:**  
+  Dual-axis line chart showing **Sales (USD)** and **Average Temperature (°F)** over time to analyze seasonal and weather impact on sales.
+
+- **Location Performance:**  
+  Bar chart displaying **Average Sales by Shop Location** (Miami Beach, Orlando, Tampa, Jacksonville) to identify top-performing stores.
+
+- **Customer Demographics – Gender:**  
+  Donut chart representing **Male vs Female customer distribution** for demographic insights.
+
+- **Customer Demographics – Type:**  
+  Donut chart comparing **Single vs Family customers**, highlighting customer composition.
+
+- **Filters & Slicers:**  
+  Interactive slicers for **Rain Condition** and **Date Range** to dynamically analyze sales under different weather and time scenarios.
+
+- **Weather Impact Analysis:**  
+  Visual correlation between rainfall, temperature, and sales trends to support weather-driven business decisions.
+
+- **Interactive Design:**  
+  Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
+
+
