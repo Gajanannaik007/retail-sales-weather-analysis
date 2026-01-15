@@ -90,41 +90,27 @@ retail-sales-weather-analysis
 ## 📊 Data Analysis (SQL)
 
 ```sql
-CREATE OR REPLACE VIEW retail.table_joined AS
-SELECT
-    s.date,
-    DAYNAME(s.date) AS day_of_week,
-
-    CASE
-        WHEN WEEKDAY(s.date) IN (5, 6) THEN 'Weekend'
-        ELSE 'Weekday'
-    END AS is_weekend,
-
-    s.shop_id,
-    s.shop_name,
-    s.customers,
-    s.sales_usd,
-
-    -- Prevent division by zero
-    CASE
-        WHEN s.customers > 0 THEN s.sales_usd / s.customers
-        ELSE 0
-    END AS sales_per_customer,
-
-    su.pct_male,
-    su.pct_female,
-    su.pct_family,
-    su.pct_single,
-
-    w.avg_temp_f,
-    w.precip_in,
-    w.is_rain,
-    w.humidity_pct
-
-FROM retail.sales s
-LEFT JOIN retail.survey su USING (date)
-LEFT JOIN retail.weather w USING (date);
-    USING (date)
-LEFT JOIN retail.weather w
-    USING (date);
+ create or replace view retail.table_joined as
+select
+s.date,
+dayname(date) as day_of_week,
+case when weekday(date) in (5,6) then "weekend" else "weekday" end as is_weekend,
+s.shop_id,
+s.shop_name,
+s.customers,
+s.sales_usd,
+s.sales_usd/s.customers as sales_per_customers,
+su.pct_male,
+su.pct_female,
+su.pct_family,
+su.pct_single,
+w.avg_temp_f,
+w.precip_in,
+w.is_rain,
+w.humidity_pct
+From retail.sales s
+left join retail.survey su
+using(date)
+left join retail.weather w
+using (date)
 
