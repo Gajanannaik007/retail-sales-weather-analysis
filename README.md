@@ -142,10 +142,7 @@ using (date)
 
   ### 📸 Dashboard Preview
 
-### 📸 Dashboard Preview
 
-![Power BI Dashboard](<img width="1129" height="638" alt="Screenshot 2026-01-15 185003" src="https://github.com/user-attachments/assets/5ed2ce53-8441-4caa-a71c-83609492c028" />
-)
 
 
 
