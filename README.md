@@ -86,8 +86,9 @@ retail-sales-weather-analysis
 └── README.md
 
 ```
-```md
 ## 📊 Data Analysis (SQL)
+
+```md
 
 ```sql
  create or replace view retail.table_joined as
