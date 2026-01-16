@@ -141,6 +141,31 @@ using (date)
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
 
   ## 🧠 Key Insights
+
+- 📊 **Comprehensive Sales Analysis**  
+  Analyzes retail sales performance across multiple shop locations with clear KPI indicators.
+
+- 🌦️ **Weather Impact Insights**  
+  Examines the influence of temperature and rainfall on customer behavior and sales trends.
+
+- 🏪 **Location-wise Performance Comparison**  
+  Identifies top-performing and underperforming stores using average sales metrics.
+
+- 👥 **Customer Demographics Breakdown**  
+  Provides insights into customer composition based on gender and customer type (Single vs Family).
+
+- 📅 **Time-based Trend Analysis**  
+  Highlights seasonal and monthly sales patterns using interactive date filters.
+
+- 🎛️ **Interactive Filters & Slicers**  
+  Enables dynamic analysis through rain condition and date range slicers.
+
+- 📈 **Business-ready Visuals**  
+  Uses clean, intuitive Power BI visuals suitable for management and decision-makers.
+
+- 🔍 **Actionable Insights**  
+  Supports data-driven decisions for marketing, staffing, and inventory planning.
+
   
 
 
