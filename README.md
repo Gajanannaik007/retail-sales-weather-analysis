@@ -139,9 +139,10 @@ using (date)
 
 - **Interactive Design:**  
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
-  ```
+  
 
   ## 🧠 Key Insights
+  ```
 
 - 📊 **Comprehensive Sales Analysis**  
   Analyzes retail sales performance across multiple shop locations with clear KPI indicators.
