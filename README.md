@@ -166,6 +166,9 @@ using (date)
 - 🔍 **Actionable Insights**  
   Supports data-driven decisions for marketing, staffing, and inventory planning.
 
+##  📚 References
+
+
   
 
 
