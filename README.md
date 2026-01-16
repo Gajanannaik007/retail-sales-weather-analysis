@@ -176,6 +176,14 @@ using (date)
  ## 👤 Author & Contact
 
 
+- **Gajanan Naik**
+- **Data Analyst**
+
+  - 📧 Email: [naikgajanan238@gmail.com](mailto:naikgajanan238@gmail.com)
+  - 💼 LinkedIn: 
+  - 🐙 GitHub:
+
+
 
 
 
