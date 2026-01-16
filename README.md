@@ -13,8 +13,7 @@ Analyzing the impact of **weather conditions on retail sales** using **MySQL** a
 - 🗂️ [Folder Structure](#folder-structure)  
 - 📊 [Data Analysis (SQL)](#data-analysis-sql)  
 - 📊 [Power BI Dashboard Overview](#power-bi-dashboard)  
-- 🧠 [Key Insights](#key-insights)  
-- 📦 [How to Run](#how-to-run)  
+- 🧠 [Key Insights](#key-insights)   
 - 📚 [References](#references)
 
 ---
