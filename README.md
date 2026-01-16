@@ -139,6 +139,7 @@ using (date)
 
 - **Interactive Design:**  
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
+  ```
 
   ## 🧠 Key Insights
 
