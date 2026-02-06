@@ -139,6 +139,11 @@ using (date)
 
 - **Interactive Design:**  
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
+
+  ### 📸 Dashboard Preview
+
+![img](images/dashboard_image.png)
+
   ---
 
   ## 🧠 Key Insights
