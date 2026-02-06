@@ -143,6 +143,10 @@ using (date)
   ### 📸 Dashboard Preview
 
 ![Img](Images/dashboard_Images.png) 
+## 📊 Dashboard Preview
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
 
   ---
 
