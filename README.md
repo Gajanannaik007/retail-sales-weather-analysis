@@ -140,9 +140,6 @@ using (date)
 - **Interactive Design:**  
   Fully interactive visuals enabling drill-downs and dynamic filtering for deeper analysis.
 
-  ### 📸 Dashboard Preview
-
-## 📷 Dashboard Preview
 
 ![Power BI Dashboard](Images/dashboard_image.png)
 
