@@ -142,7 +142,7 @@ using (date)
 
   ### 📸 Dashboard Preview
 
-![img](images/dashboard_images.png)
+![img](Images/dashboard_Images.png) 
 
   ---
 
