@@ -145,7 +145,8 @@ using (date)
 ![Img](Images/dashboard_Images.png) 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.png)
+
 
 
   ---
