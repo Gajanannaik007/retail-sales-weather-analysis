@@ -184,7 +184,7 @@ using (date)
 - **Data Analyst**
 
   - 📧 Email: [naikgajanan238@gmail.com](mailto:naikgajanan238@gmail.com)
-  - 💼 LinkedIn: 
+  - 💼 LinkedIn:[https://www.linkedin.com/in/gajanan-naik-4a8a08373/](https://www.linkedin.com/in/gajanan-naik-4a8a08373/)
   - 🐙 GitHub:
 
 
